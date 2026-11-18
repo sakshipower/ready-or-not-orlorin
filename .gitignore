@@ -1,0 +1,7 @@
+.pnpm-store/
+.cache/
+node_modules/
+.env.local
+.next/
+.DS_Store
+*.tgz
